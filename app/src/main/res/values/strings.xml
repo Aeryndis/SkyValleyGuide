@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Sky Valley Tour Guide</string>
+    <string name="town_fragment">Towns</string>
+    <string name="sights_fragment">Sights</string>
+    <string name="food_fragment">Food</string>
+    <string name="coffee_fragment">Coffee</string>
+
+    <!-- Town information -->
+    <!-- Monroe -->
+    <string name="monroe_name">Monroe</string>
+    <string name="monroe_est_date">Est. Dec 20, 1902</string>
+    <string name="monroe_population">Pop. 18,000</string>
+    <string name="monroe_blurb">The westernmost and largest town in Sky Valley, Monroe grew up
+        alongside the Great Northern Railway. Logging gave way to agriculture as the primary
+        industry, which remains strong to this day.</string>
+
+    <!-- Sultan -->
+    <string name="sultan_name">Sultan</string>
+    <string name="sultan_est_date">Est. June 28, 1905</string>
+    <string name="sultan_population">Pop. 4,800</string>
+    <string name="sultan_blurb">Located 7.5mi/12kms east of Monroe along Highway 2, Sultan was
+        originally settled around 1880 as a small logging community. The town sits at the
+        junction of the Skykomish and Sultan rivers.</string>
+
+    <!-- Gold Bar -->
+    <string name="goldbar_name">Gold Bar</string>
+    <string name="goldbar_est_date">Est. Sept 16, 1910</string>
+    <string name="goldbar_population">Pop. 2,100</string>
+    <string name="goldbar_blurb">A popular white-water rafting destination, Gold Bar initially
+        started as a prospectors camp in 1889, after traces of gold were found in the Skykomish
+        River. Wallace Falls, a popular hiking location, is located just to the north of town.
+    </string>
+
+    <!-- Index -->
+    <string name="index_name">Index</string>
+    <string name="index_est_date">Est. Oct 11, 1907</string>
+    <string name="index_population">Pop. 200</string>
+    <string name="index_blurb">21.8mi/35kms east of Monroe on Highway 2, Index is known for its
+        soaring granite cliffs. Once an important railway stop for mining and logging activities,
+        the towns primary industry is now tourism.</string>
+
+    <!-- Skykomish -->
+    <string name="skykomish_name">Skykomish</string>
+    <string name="skykomish_est_date">Est. June 5, 1909</string>
+    <string name="skykomish_population">Pop. 200</string>
+    <string name="skykomish_blurb">A refueling and maintenance station for the Great Northern
+        Railway from the 1890s to 1974, Skykomish is now a stopping point for recreational access to
+        the surrounding mountains. The easternmost town in Sky Valley, it is 33.9mi/54.5kms from
+        Monroe along Highway 2.</string>
+
+    <!-- Sights Information -->
+    <!-- Monroe -->
+    <string name="monroe_sight_1">Monroe Sight 1</string>
+    <string name="monroe_sight_location_1">Monroe address</string>
+    <string name="monroe_sight_type_1">Sight type</string>
+    <string name="monroe_sight_blurb_1">Blurb about sight 1</string>
+
+    <string name="monroe_sight_2">Monroe Sight 2</string>
+    <string name="monroe_sight_location_2">Monroe address</string>
+    <string name="monroe_sight_type_2">Sight type</string>
+    <string name="monroe_sight_blurb_2">Blurb about sight 2</string>
+
+    <!-- Sultan -->
+    <string name="sultan_sight_1">Sultan Sight 1</string>
+    <string name="sultan_sight_location_1">Sultan address</string>
+    <string name="sultan_sight_type_1">Sight type</string>
+    <string name="sultan_sight_blurb_1">Blurb about sight 1</string>
+
+    <string name="sultan_sight_2">Sultan Sight 2</string>
+    <string name="sultan_sight_location_2">Sultan address</string>
+    <string name="sultan_sight_type_2">Sight type</string>
+    <string name="sultan_sight_blurb_2">Blurb about sight 2</string>
+
+    <!-- Gold Bar -->
+    <string name="goldbar_sight_1">Gold Bar Sight 1</string>
+    <string name="goldbar_sight_location_1">Gold Bar address</string>
+    <string name="goldbar_sight_type_1">Sight type</string>
+    <string name="goldbar_sight_blurb_1">Blurb about sight 1</string>
+
+    <!-- Index -->
+    <string name="index_sight_1">Index Sight 1</string>
+    <string name="index_sight_location_1">Index address</string>
+    <string name="index_sight_type_1">Sight type</string>
+    <string name="index_sight_blurb_1">Blurb about sight 1</string>
+
+    <!-- Skykomish -->
+    <string name="skykomish_sight_1">Skykomish Sight 1</string>
+    <string name="skykomish_sight_location_1">Skykomish address</string>
+    <string name="skykomish_sight_type_1">Sight type</string>
+    <string name="skykomish_sight_blurb_1">Blurb about sight 1</string>
+
+    <!-- Food Information -->
+    <!-- Monroe -->
+    <string name="monroe_food_1">Monroe Food 1</string>
+    <string name="monroe_food_location_1">Monroe address</string>
+    <string name="monroe_food_blurb_1">Blurb about sight 1</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="monroe_food_url_1">Website for food 1</string>
+
+    <string name="monroe_food_2">Monroe Food 2</string>
+    <string name="monroe_food_location_2">Monroe address</string>
+    <string name="monroe_food_blurb_2">Blurb about sight 2</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="monroe_food_url_2">Website for food 2</string>
+
+    <!-- Sultan -->
+    <string name="sultan_food_1">Sultan Food 1</string>
+    <string name="sultan_food_location_1">Sultan address</string>
+    <string name="sultan_food_blurb_1">Blurb about food 1</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="sultan_food_url_1">Website for food 1</string>
+
+    <string name="sultan_food_2">Sultan Food 2</string>
+    <string name="sultan_food_location_2">Sultan address</string>
+    <string name="sultan_food_blurb_2">Blurb about food 2</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="sultan_food_url_2">Website for food 2</string>
+
+    <!-- Gold Bar -->
+    <string name="goldbar_food_1">Gold Bar Sight 1</string>
+    <string name="goldbar_food_location_1">Gold Bar address</string>
+    <string name="goldbar_food_blurb_1">Blurb about sight 2</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="goldbar_food_url_1">Website for food 1</string>
+
+    <!-- Index -->
+    <string name="index_food_1">Index Sight 1</string>
+    <string name="index_food_location_1">Index address</string>
+    <string name="index_food_blurb_1">Blurb about sight 2</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="index_food_url_1">Website for food 1</string>
+
+    <!-- Skykomish -->
+    <string name="skykomish_food_1">Skykomish Sight 1</string>
+    <string name="skykomish_food_location_1">Skykomish address</string>
+    <string name="skykomish_food_blurb_1">Blurb about sight 2</string>
+    <!-- Website isn't displayed, onClickListener will open website intent instead -->
+    <string name="skykomish_food_url_1">Website for food 1</string>
+
+    <!-- Coffee Information -->
+    <!-- Monroe -->
+    <string name="monroe_coffee_1">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="monroe_coffee_location_1">Monroe address</string>
+    <string name="monroe_coffee_blurb_1">Blurb about sight 1</string>
+
+    <string name="monroe_coffee_2">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="monroe_coffee_location_2">Monroe address</string>
+    <string name="monroe_coffee_blurb_2">Blurb about sight 1</string>
+
+    <!-- Sultan -->
+    <string name="sultan_coffee_1">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="sultan_coffee_location_1">Monroe address</string>
+    <string name="sultan_coffee_blurb_1">Blurb about sight 1</string>
+
+    <string name="sultan_coffee_2">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="sultan_coffee_location_2">Monroe address</string>
+    <string name="sultan_coffee_blurb_2">Blurb about sight 1</string>
+
+    <!-- Gold Bar -->
+    <string name="goldbar_coffee_1">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="goldbar_coffee_location_1">Monroe address</string>
+    <string name="goldbar_coffee_blurb_1">Blurb about sight 1</string>
+
+    <!-- Index -->
+    <string name="index_coffee_1">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="index_coffee_location_1">Monroe address</string>
+    <string name="index_coffee_blurb_1">Blurb about sight 1</string>
+
+    <!-- Skykomish -->
+    <string name="skykomish_coffee_1">Monroe Food 1</string>
+    <!-- Address is displayed, and onClickListener will open GPS intent -->
+    <string name="skykomish_coffee_location_1">Monroe address</string>
+    <string name="skykomish_coffee_blurb_1">Blurb about sight 1</string>
+
+</resources>
