@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="townsColor">#d7ffd9</color>
+    <color name="sightsColor">#b4ffff</color>
+    <color name="foodColor">#e6ceff</color>
+    <color name="coffeeColor">#ffcccb</color>
 </resources>

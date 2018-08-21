@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -45,19 +46,22 @@ public class FoodAdapter extends ArrayAdapter<Food> {
                     R.layout.foods_list_item, parent, false);
         }
 
-        // Get the {@link Sight} object located at this position in the list
+        // Get the {@Link Food} object located at this position in the list
         Food currentFood = getItem(position);
 
-        TextView foodNameTextView = (TextView) listItemView.findViewById(R.id.food_name);
+        TextView foodNameTextView = listItemView.findViewById(R.id.food_name);
         foodNameTextView.setText(currentFood.getFoodName());
 
-        TextView foodLocationTextView = (TextView) listItemView.findViewById(R.id.food_location);
+        TextView foodLocationTextView = listItemView.findViewById(R.id.food_location);
         foodLocationTextView.setText(currentFood.getFoodLocation());
 
-        TextView foodBlurbTextView = (TextView) listItemView.findViewById(R.id.food_blurb);
+        TextView foodBlurbTextView = listItemView.findViewById(R.id.food_blurb);
         foodBlurbTextView.setText(currentFood.getFoodBlurb());
 
-        // Return the whole list item layout (containing 3 TextViews)
+        ImageView foodThumbnailImageView = listItemView.findViewById(R.id.food_thumbnail);
+        foodThumbnailImageView.setImageResource(currentFood.getFoodThumb());
+
+        // Return the whole list item layout (containing 3 TextViews and 1 ImageView)
         // so that it can be shown in the ListView
         return listItemView;
     }

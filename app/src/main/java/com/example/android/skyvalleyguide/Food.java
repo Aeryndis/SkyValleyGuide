@@ -11,22 +11,29 @@ public class Food {
     /** Blurb about food place */
     private int mFoodBlurb;
 
+    /**
+     * Image thumbnail for the food place
+     */
+    private int mFoodThumb;
+
     /** Website for food place */
     private int mFoodUrl;
 
     /**
-     * Create a new Sight object
+     * Create a new Food object
      *
      * @param name          String resource ID for the food place name
      * @param location      String resource ID for the food place address
      * @param blurb         String resource ID for a blurb about the food place
+     * @param thumb         String resource ID for a thumbnail of the food place
      * @param url           String resource iD for the food place website URL
      */
 
-    public Food(int name, int location, int blurb, int url) {
+    public Food(int name, int location, int blurb, int thumb, int url) {
         mFoodName = name;
         mFoodLocation = location;
         mFoodBlurb = blurb;
+        mFoodThumb = thumb;
         mFoodUrl = url;
     }
 
@@ -40,6 +47,10 @@ public class Food {
 
     public int getFoodBlurb() {
         return mFoodBlurb;
+    }
+
+    public int getFoodThumb() {
+        return mFoodThumb;
     }
 
     public int getFoodUrl() {

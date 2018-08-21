@@ -45,19 +45,19 @@ public class SightAdapter extends ArrayAdapter<Sight> {
                     R.layout.sights_list_item, parent, false);
         }
 
-        // Get the {@link Sight} object located at this position in the list
+        // Get the {@Link Sight} object located at this position in the list
         Sight currentSight = getItem(position);
 
-        TextView sightNameTextView = (TextView) listItemView.findViewById(R.id.sight_name);
+        TextView sightNameTextView = listItemView.findViewById(R.id.sight_name);
         sightNameTextView.setText(currentSight.getSightName());
 
-        TextView sightLocationTextView = (TextView) listItemView.findViewById(R.id.sight_location);
+        TextView sightLocationTextView = listItemView.findViewById(R.id.sight_location);
         sightLocationTextView.setText(currentSight.getSightLocation());
 
-        TextView sightTypeTextView = (TextView) listItemView.findViewById(R.id.sight_type);
+        TextView sightTypeTextView = listItemView.findViewById(R.id.sight_type);
         sightTypeTextView.setText(currentSight.getSightType());
 
-        TextView sightBlurbTextView = (TextView) listItemView.findViewById(R.id.sight_blurb);
+        TextView sightBlurbTextView = listItemView.findViewById(R.id.sight_blurb);
         sightBlurbTextView.setText(currentSight.getSightBlurb());
 
         // Return the whole list item layout (containing 4 TextViews)

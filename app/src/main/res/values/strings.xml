@@ -4,6 +4,7 @@
     <string name="sights_fragment">Sights</string>
     <string name="food_fragment">Food</string>
     <string name="coffee_fragment">Coffee</string>
+    <string name="thumbnail">Restaurant thumbnail image</string>
 
     <!-- Town information -->
     <!-- Monroe -->
@@ -50,132 +51,147 @@
 
     <!-- Sights Information -->
     <!-- Monroe -->
-    <string name="monroe_sight_1">Monroe Sight 1</string>
-    <string name="monroe_sight_location_1">Monroe address</string>
-    <string name="monroe_sight_type_1">Sight type</string>
-    <string name="monroe_sight_blurb_1">Blurb about sight 1</string>
+    <string name="monroe_sight_1">Al Borlin Park</string>
+    <string name="monroe_sight_location_1">615 Simon Road, Monroe</string>
+    <string name="monroe_sight_type_1">Park, trails</string>
+    <string name="monroe_sight_blurb_1">The largest of Monroe\'s parks, Al Borlin park features a
+        landscaped picnic area, and is crisscrossed with a network of trails. Bordered by Woods
+        Creeks and the Skykomish river, Al Borlin park provides a secluded natural experience in an
+        urban environment.</string>
 
-    <string name="monroe_sight_2">Monroe Sight 2</string>
-    <string name="monroe_sight_location_2">Monroe address</string>
-    <string name="monroe_sight_type_2">Sight type</string>
-    <string name="monroe_sight_blurb_2">Blurb about sight 2</string>
+    <string name="monroe_sight_2">Evergreen Speedway</string>
+    <string name="monroe_sight_location_2">14405 179th Ave SE, Monroe</string>
+    <string name="monroe_sight_type_2">Race track</string>
+    <string name="monroe_sight_blurb_2">Hosting races every Saturday night at 6pm from April to
+        October, Evergreen Speedway can seat 7,500 spectators in a covered stand. The Speedway is
+        home to several racing fixtures, and has been in operation for 64 years.</string>
 
     <!-- Sultan -->
-    <string name="sultan_sight_1">Sultan Sight 1</string>
-    <string name="sultan_sight_location_1">Sultan address</string>
-    <string name="sultan_sight_type_1">Sight type</string>
-    <string name="sultan_sight_blurb_1">Blurb about sight 1</string>
+    <string name="sultan_sight_1">Osprey Park</string>
+    <string name="sultan_sight_location_1">801 1st Street, Sultan</string>
+    <string name="sultan_sight_type_1">Park, trails</string>
+    <string name="sultan_sight_blurb_1">Featuring walking trails, a playground, sporting fields
+        and a dog park, Osprey Park has something for everyone. A covered basketball court allows
+        for use in all weather, and public restrooms are located on site. Ample parking is
+        available, and provides immediate access to the southern end of the trails.</string>
 
-    <string name="sultan_sight_2">Sultan Sight 2</string>
-    <string name="sultan_sight_location_2">Sultan address</string>
-    <string name="sultan_sight_type_2">Sight type</string>
-    <string name="sultan_sight_blurb_2">Blurb about sight 2</string>
+    <string name="sultan_sight_2">Sultan Historical Museum</string>
+    <string name="sultan_sight_location_2">102 4th Street, Sultan</string>
+    <string name="sultan_sight_type_2">Museum</string>
+    <string name="sultan_sight_blurb_2">Located above the Sultan Post Office, Sultan Historical
+        Museum features a topographical map of the Skykomish Valley, a taxidermy exhibit of birds
+        indigenous to the local area, and many other items relating to the logging and mining
+        history of the area. Open 1st and 3rd Tuesdays of the month, 10am-2pm.</string>
 
     <!-- Gold Bar -->
-    <string name="goldbar_sight_1">Gold Bar Sight 1</string>
-    <string name="goldbar_sight_location_1">Gold Bar address</string>
-    <string name="goldbar_sight_type_1">Sight type</string>
-    <string name="goldbar_sight_blurb_1">Blurb about sight 1</string>
+    <string name="goldbar_sight_1">Wallace Falls State Park</string>
+    <string name="goldbar_sight_location_1">14503 Wallace Lake Road, Gold Bar</string>
+    <string name="goldbar_sight_type_1">Hiking, camping</string>
+    <string name="goldbar_sight_blurb_1">A 1,380-camping park, Wallace Falls State Park offers 12
+        miles of trails, tent sites and five cabins. Hike along the Wallace River to Wallace Falls,
+        a three tier waterfall surrounded by old growth forest. Parking permit required.</string>
 
     <!-- Index -->
-    <string name="index_sight_1">Index Sight 1</string>
-    <string name="index_sight_location_1">Index address</string>
-    <string name="index_sight_type_1">Sight type</string>
-    <string name="index_sight_blurb_1">Blurb about sight 1</string>
+    <string name="index_sight_1">Heybrook Lookout</string>
+    <string name="index_sight_location_1">North side of US 2 at mile marker 37, Index</string>
+    <string name="index_sight_type_1">Hike, lookout</string>
+    <string name="index_sight_blurb_1">A short but steep 1.9 mile out and back trail, accessible
+        year round. Trekking poles are recommended but not required. A lookout tower is the feature
+        of this hike, with the top of the tower available for hire. Bird and animal life abounds.
+        </string>
 
     <!-- Skykomish -->
-    <string name="skykomish_sight_1">Skykomish Sight 1</string>
-    <string name="skykomish_sight_location_1">Skykomish address</string>
-    <string name="skykomish_sight_type_1">Sight type</string>
-    <string name="skykomish_sight_blurb_1">Blurb about sight 1</string>
+    <string name="skykomish_sight_1">Iron Goat Trail</string>
+    <string name="skykomish_sight_location_1">US 2 mile marker 58.3, north onto Old Cascade Highway</string>
+    <string name="skykomish_sight_type_1">Hike</string>
+    <string name="skykomish_sight_blurb_1">An ADA accessible 3 mile trail of easy grade between
+        Scenic and Martin Creek is ideal for those new to hiking. No recreation pass is required
+        to park at the Interpretive Site/Scenic Trailhead. Accessible bathroom facilities are
+        available at the trailhead.</string>
 
     <!-- Food Information -->
     <!-- Monroe -->
-    <string name="monroe_food_1">Monroe Food 1</string>
-    <string name="monroe_food_location_1">Monroe address</string>
-    <string name="monroe_food_blurb_1">Blurb about sight 1</string>
+    <string name="monroe_food_1">Mi Tierra Family Mexican Restaurant</string>
+    <string name="monroe_food_location_1">19480 US 2, Monroe</string>
+    <string name="monroe_food_blurb_1">Family-owned and operated restaurant, serving authentic
+        dishes and margaritas from the heart of Mexico.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="monroe_food_url_1">Website for food 1</string>
+    <string name="monroe_food_url_1">https://www.restaurantmitierra.com</string>
 
-    <string name="monroe_food_2">Monroe Food 2</string>
-    <string name="monroe_food_location_2">Monroe address</string>
-    <string name="monroe_food_blurb_2">Blurb about sight 2</string>
+    <string name="monroe_food_2">Benjarong Thai Restaurant</string>
+    <string name="monroe_food_location_2">19480 US 2 D1, Monroe</string>
+    <string name="monroe_food_blurb_2">A Thai restaurant dedicated to serving food that honours the
+        delicate balance and fine flavor of traditional Thai cuisine.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="monroe_food_url_2">Website for food 2</string>
+    <string name="monroe_food_url_2">http://benjarongmonroe.com</string>
 
     <!-- Sultan -->
-    <string name="sultan_food_1">Sultan Food 1</string>
-    <string name="sultan_food_location_1">Sultan address</string>
-    <string name="sultan_food_blurb_1">Blurb about food 1</string>
+    <string name="sultan_food_1">Timber Monster Brewing Company</string>
+    <string name="sultan_food_location_1">410 Main Street, Sultan</string>
+    <string name="sultan_food_blurb_1">Family friendly brewery. Craft beer, Timber Monster coffee,
+        monstrously good food. Family owned and operated.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="sultan_food_url_1">Website for food 1</string>
+    <string name="sultan_food_url_1">https://www.facebook.com/TimberMonsterBrewingCompany/</string>
 
-    <string name="sultan_food_2">Sultan Food 2</string>
-    <string name="sultan_food_location_2">Sultan address</string>
-    <string name="sultan_food_blurb_2">Blurb about food 2</string>
+    <string name="sultan_food_2">Vick\'s Burger Shack</string>
+    <string name="sultan_food_location_2">930 Stevens Ave, Sultan</string>
+    <string name="sultan_food_blurb_2">Burgers, Shakes and Fries and authentic wood-smoked BBQ!
+        </string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="sultan_food_url_2">Website for food 2</string>
+    <string name="sultan_food_url_2">https://www.facebook.com/VicksBurgerShack/</string>
 
     <!-- Gold Bar -->
-    <string name="goldbar_food_1">Gold Bar Sight 1</string>
-    <string name="goldbar_food_location_1">Gold Bar address</string>
-    <string name="goldbar_food_blurb_1">Blurb about sight 2</string>
+    <string name="goldbar_food_1">Zeke\'s Drive-In</string>
+    <string name="goldbar_food_location_1">43918 US 2, Gold Bar</string>
+    <string name="goldbar_food_blurb_1">Established in 1968, Zeke\'s serves hamburgers, fries,
+        sandwiches, milkshakes and ice cream to fuel those heading to, and returning from, Stevens
+        Pass.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="goldbar_food_url_1">Website for food 1</string>
+    <string name="goldbar_food_url_1">https://www.facebook.com/OfficialZekesDriveIn/</string>
 
     <!-- Index -->
-    <string name="index_food_1">Index Sight 1</string>
-    <string name="index_food_location_1">Index address</string>
-    <string name="index_food_blurb_1">Blurb about sight 2</string>
+    <string name="index_food_1">The River House</string>
+    <string name="index_food_location_1">444 Avenue A, Index</string>
+    <string name="index_food_blurb_1">The River House is our beautifully restored event center
+        featuring a cafe, bbq, business meetings, outdoor weddings, and group activities.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="index_food_url_1">Website for food 1</string>
+    <string name="index_food_url_1">https://www.facebook.com/RiverHouseWeddings/</string>
 
     <!-- Skykomish -->
-    <string name="skykomish_food_1">Skykomish Sight 1</string>
-    <string name="skykomish_food_location_1">Skykomish address</string>
-    <string name="skykomish_food_blurb_1">Blurb about sight 2</string>
+    <string name="skykomish_food_1">Cascadia Inn</string>
+    <string name="skykomish_food_location_1">210 E Railroad Ave, Skykomish</string>
+    <string name="skykomish_food_blurb_1">The Cascadia Cafe has been serving home style food since
+        1922. The menu today still offers classic home style food with a little something for
+        everyone.</string>
     <!-- Website isn't displayed, onClickListener will open website intent instead -->
-    <string name="skykomish_food_url_1">Website for food 1</string>
+    <string name="skykomish_food_url_1">http://www.historiccascadia.com</string>
 
     <!-- Coffee Information -->
     <!-- Monroe -->
-    <string name="monroe_coffee_1">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="monroe_coffee_location_1">Monroe address</string>
-    <string name="monroe_coffee_blurb_1">Blurb about sight 1</string>
-
-    <string name="monroe_coffee_2">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="monroe_coffee_location_2">Monroe address</string>
-    <string name="monroe_coffee_blurb_2">Blurb about sight 1</string>
+    <string name="monroe_coffee_1">Coffee Corral</string>
+    <string name="monroe_coffee_location_1">22715 US 2, Monroe</string>
+    <string name="monroe_coffee_blurb_1">Drive up coffee hut serving Highway 2 between Monroe and
+        Sultan. Hot and cold drinks, daily specials, small snacks and a loyalty card make this a
+        stop worth making.</string>
 
     <!-- Sultan -->
-    <string name="sultan_coffee_1">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="sultan_coffee_location_1">Monroe address</string>
-    <string name="sultan_coffee_blurb_1">Blurb about sight 1</string>
-
-    <string name="sultan_coffee_2">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="sultan_coffee_location_2">Monroe address</string>
-    <string name="sultan_coffee_blurb_2">Blurb about sight 1</string>
+    <string name="sultan_coffee_1">Windmill Espresso</string>
+    <string name="sultan_coffee_location_1">933 Stevens Ave, Sultan</string>
+    <string name="sultan_coffee_blurb_1">A Sultan landmark for 10 years, Windmill Espresso can
+        cater to all your coffee needs. Also available are smoothies, cold drinks, hot dogs, and
+        biscuits and gravy.</string>
 
     <!-- Gold Bar -->
-    <string name="goldbar_coffee_1">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="goldbar_coffee_location_1">Monroe address</string>
-    <string name="goldbar_coffee_blurb_1">Blurb about sight 1</string>
+    <string name="goldbar_coffee_1">The Woodshed Espresso</string>
+    <string name="goldbar_coffee_location_1">913 Croft Ave, Gold Bar</string>
+    <string name="goldbar_coffee_blurb_1">A family friendly shop that serves coffee and ice cream,
+        and also sells firewood.</string>
 
     <!-- Index -->
-    <string name="index_coffee_1">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="index_coffee_location_1">Monroe address</string>
-    <string name="index_coffee_blurb_1">Blurb about sight 1</string>
-
-    <!-- Skykomish -->
-    <string name="skykomish_coffee_1">Monroe Food 1</string>
-    <!-- Address is displayed, and onClickListener will open GPS intent -->
-    <string name="skykomish_coffee_location_1">Monroe address</string>
-    <string name="skykomish_coffee_blurb_1">Blurb about sight 1</string>
+    <string name="index_coffee_1">Espresso Chalet</string>
+    <string name="index_coffee_location_1">50010 US 2, Index</string>
+    <string name="index_coffee_blurb_1">A filming site for Harry and the Hendersons, Expresso
+        Chalet has been in operation for over years. A great place to stop for coffee and other
+        drinks, snacks, directions and information about local attractions.</string>
 
 </resources>
